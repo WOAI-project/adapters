@@ -1,0 +1,1 @@
+Uploads NFT media to IPFS

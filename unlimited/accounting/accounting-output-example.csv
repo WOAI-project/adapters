@@ -1,0 +1,3 @@
+TxId,Date,Customer,IsVatLiable,PriceEur,VatChargedEur
+0x6946f787c9fddbcb663df2bb9f8d6c91ea31b373dd28ba234bd42cb7a59bfde4,2022-09-06,0xc8f866d13f6ee54a24891df0ebbf01ffa0388a4b,false,10.00,0
+0x6946f787c9fddbcb663df2bb9f8d6c91ea31b373dd28ba234bd42cb7a59bfde5,2022-09-06,0xc8f866d13f6ee54a24891df0ebbf01ffa0388a4c,true,10.00,2.40
